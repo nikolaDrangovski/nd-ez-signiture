@@ -2,7 +2,7 @@
 
 ## What is it ? 
 
-Easy to use component: electronic signiture that will give you base64 image data
+Easy to use ANGULAR component: electronic signiture that will give you base64 image data
 
  <img src="img.png" width="300" title="screenshot"/>
 
